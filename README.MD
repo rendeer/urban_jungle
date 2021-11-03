@@ -6,7 +6,7 @@ Some modifications based on original project:
 
 - Replace Google Map API with [Leaflet](https://leafletjs.com/) so that Google API key is not needed
 - Remove dependency of mapnik
-- Use Leaflet [TileLayer](https://leafletjs.com/examples/map-panes/) instead local shapefiles serving labels and other layers
+- Use Leaflet [TileLayer](https://leafletjs.com/examples/map-panes/) instead of local shapefiles serving labels and other layers
 - Add cycling routes in Japan just for own interest
 
 ## More!
