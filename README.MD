@@ -1,6 +1,6 @@
 # Modified Version of Repo [mapnes](https://github.com/ciciplusplus/mapnes)
 
-![preview](screenshot.png)
+![preview](screenshot.PNG)
 
 ## Modifications
 
